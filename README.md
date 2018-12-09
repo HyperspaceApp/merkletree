@@ -23,7 +23,7 @@ import (
     "log"
     "os"
 
-    "gitlab.com/NebulousLabs/merkletree"
+    "github.com/HyperspaceApp/merkletree"
 )
 
 // All error checking is ignored in the following examples.

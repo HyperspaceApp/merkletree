@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"testing"
 
-	"gitlab.com/NebulousLabs/errors"
-	"gitlab.com/NebulousLabs/fastrand"
+	"github.com/HyperspaceApp/errors"
+	"github.com/HyperspaceApp/fastrand"
 )
 
 // A MerkleTester contains data types that can be filled out manually to

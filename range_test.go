@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gitlab.com/NebulousLabs/fastrand"
+	"github.com/HyperspaceApp/fastrand"
 	"golang.org/x/crypto/blake2b"
 )
 
